@@ -12,7 +12,7 @@
  * Copyright: (c) 2019 JutGreg. All rights reserved.
  *
  * License: MIT License
- * License URI: https://opensource.org/licenses/MIT
+ * License URI: https://github.com/JutGreg/contact-form-7-wpml/blob/master/LICENSE
  *
  * @package   contact-form-7-wpml
  * @author    JutGreg
